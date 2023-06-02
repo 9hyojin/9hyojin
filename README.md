@@ -1,16 +1,56 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**9hyojin/9hyojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요 개발자 구효진입니다👩🏻
 
-Here are some ideas to get you started:
+🖍️ 새로운 배움을 즐깁니다
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🪡 기술과 예술의 결합과 발전에 관심이 많습니다
+
+👫🏻 함께 완성하는것을 좋아합니다
+
+
+
+#### 📧 koohyojin1205@gmail.com
+#### 🔗 koodingnote.tistory.com
+
+*****
+
+# SKILLS 🛠️
+## Backend
+- Java
+
+- Spring boot
+
+- JPA
+
+
+## DevOps
+
+- MySQL, MariaDB
+
+
+## Cloud
+
+- AWS (EC2 / RDS / S3 /Route53)
+
+## Frontend
+
+- HTML, CSS
+
+- Bootstrap
+
+- Figma
+
+
+
+## Tools & Collaboration
+
+- IntelliJ
+
+- Github
+
+- Slack
+
+
+
+
